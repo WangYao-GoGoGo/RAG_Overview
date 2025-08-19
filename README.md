@@ -189,7 +189,6 @@ Given the rapid evolution of this field, we will continue to update the reposito
     - [LJX25] [A Survey of Personalization: From RAG to Agent](https://arxiv.org/pdf/2504.10147). arXiv.
 
   - ### <a name='sat'></a>[Source Attribution]()
-    - [LJX25] [A Survey of Personalization: From RAG to Agent](https://arxiv.org/pdf/2504.10147). arXiv.
     - [AAH25] [Evaluation of Attribution Bias in Retrieval-Augmented Large Language Models](https://aclanthology.org/2025.findings-acl.1087/). ACL.
     - [LHS24] [TruthReader: Towards Trustworthy Document Assistant Chatbot with Reliable Attribution](https://aclanthology.org/2024.emnlp-demo.10/). EMNLP.
     - [BFW24] [CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity](https://aclanthology.org/2024.findings-emnlp.13/). EMNLP.
