@@ -20,6 +20,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
     -  <a href="#jo">Joint Optimization: Retriever (optimization), Generator (optimization)</a>
   - <a href="#eval">Evaluation</a>
   - <a href="#persona">Personalization</a>
+  - <a href="#sat">Source Attribution</a>
   - <a href="#mulrag">Multimodal RAG</a>
 ## <a name="sp"></a>[Survey Papers]()
 
@@ -186,6 +187,15 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
   - ### <a name='persona'></a>[Personalization]()
     - [LJX25] [A Survey of Personalization: From RAG to Agent](https://arxiv.org/pdf/2504.10147). arXiv.
+
+  - ### <a name='sat'></a>[Source Attribution]()
+    - [LJX25] [A Survey of Personalization: From RAG to Agent](https://arxiv.org/pdf/2504.10147). arXiv.
+    - [AAH25] [Evaluation of Attribution Bias in Retrieval-Augmented Large Language Models](https://aclanthology.org/2025.findings-acl.1087/). ACL.
+    - [LHS24] [TruthReader: Towards Trustworthy Document Assistant Chatbot with Reliable Attribution](https://aclanthology.org/2024.emnlp-demo.10/). EMNLP.
+    - [BFW24] [CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity](https://aclanthology.org/2024.findings-emnlp.13/). EMNLP.
+    - [MTM22] [Teaching Language Models to Support Answers with Verified Quotes](https://arxiv.org/pdf/2203.11147). arXiv.
+    - [XWL25] [Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation](https://aclanthology.org/2025.findings-naacl.55/). NAACL.
+    - [XQC25] [CiteEval: Principle-Driven Citation Evaluation for Source Attribution](https://aclanthology.org/2025.acl-long.1574/). ACL.
 
   - ### <a name='mulrag'></a>[Multimodal RAG]()
     - [AZD25] [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://aclanthology.org/2025.findings-acl.861/). ACL.
