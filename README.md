@@ -1,4 +1,4 @@
-<img width="176" height="38" alt="image" src="https://github.com/user-attachments/assets/17064d51-d478-400c-ad8f-2491486c2d3a" /># RAG_Overview
+# RAG_Overview
 
 This repository aims to provide a comprehensive overview of Retrieval-augmented Generation (RAG) by curating highly related resources, including representative papers, workshops, tutorials, evaluation tracts and open-source projects.
 Given the rapid evolution of this field, we will continue to update the repository on a regular basis.
